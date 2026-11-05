@@ -40,7 +40,6 @@ Hi! I'm **Foule-ID**, a student developer from Indonesia who is passionate about
 
 ---
 
-
 ## 🛠️ Tech Stack & Tools
 
 ### 🌐 Web Development
@@ -65,10 +64,16 @@ Hi! I'm **Foule-ID**, a student developer from Indonesia who is passionate about
 
 ### ⚙️ Tools & IDE
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,unity,androidstudio,figma" alt="Development and Design Tools" />
+  <img src="https://skillicons.dev/icons?i=vscode,unity,androidstudio" alt="Development Tools" />
   <br/>
   <img src="https://img.shields.io/badge/Laragon-0E83CD?style=flat-square&logo=laragon&logoColor=white" alt="Laragon" />
 </p>
+
+### 🎨 Design & Prototyping
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+</p>
+
 
 ### 🔌 IoT & Electronics
 <p>
