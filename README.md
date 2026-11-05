@@ -40,44 +40,42 @@ Hi! I'm **Foule-ID**, a student developer from Indonesia who is passionate about
 
 ---
 
+
 ## 🛠️ Tech Stack & Tools
 
 ### 🌐 Web Development
-
 <p>
-  <img src="https://skillicons.dev/icons?i=react,laravel,html,css,js" alt="Web Development" />
+   <img src="https://skillicons.dev/icons?i=react,laravel,html,css,js" alt="Web Development" />
 </p>
 
 ### 📱 Android Development
-
 <p>
   <img src="https://skillicons.dev/icons?i=java,dart,flutter" alt="Android Development" />
 </p>
 
 ### 🎮 Game Development
-
 <p>
   <img src="https://skillicons.dev/icons?i=cs" alt="Game Development" />
 </p>
 
 ### 🗄️ Database & Backend
-
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" alt="Database and Backend" />
 </p>
 
 ### ⚙️ Tools & IDE
-
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,unity,androidstudio" alt="Development Tools" />
-</p>
-
-<p>
+  <img src="https://skillicons.dev/icons?i=vscode,unity,androidstudio,figma" alt="Development and Design Tools" />
+  <br/>
   <img src="https://img.shields.io/badge/Laragon-0E83CD?style=flat-square&logo=laragon&logoColor=white" alt="Laragon" />
 </p>
 
-### 🔗 Other Platforms
+### 🔌 IoT & Electronics
+<p>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
+</p>
 
+### 🔗 Other Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=github,gitlab" alt="Other Platforms" />
 </p>
