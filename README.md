@@ -42,48 +42,14 @@ Hi! I'm **Foule-ID**, a student developer from Indonesia who is passionate about
 
 ## 🛠️ Tech Stack & Tools
 
-### 🌐 Web Development
-<p>
-   <img src="https://skillicons.dev/icons?i=react,laravel,html,css,js" alt="Web Development" />
-</p>
+<h2>Core Tech Stacks</h2>
+<img src="https://skillicons.dev/icons?i=react,vite,supabase,flutter,ts" />
 
-### 📱 Android Development
-<p>
-  <img src="https://skillicons.dev/icons?i=java,dart,flutter" alt="Android Development" />
-</p>
+<h2>Other Tech Stacks</h2>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,cs,dart,tailwind,nodejs,mysql,postgres" />
 
-### 🎮 Game Development
-<p>
-  <img src="https://skillicons.dev/icons?i=cs" alt="Game Development" />
-</p>
-
-### 🗄️ Database & Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" alt="Database and Backend" />
-</p>
-
-### ⚙️ Tools & IDE
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,unity,androidstudio" alt="Development Tools" />
-  <br/>
-  <img src="https://img.shields.io/badge/Laragon-0E83CD?style=flat-square&logo=laragon&logoColor=white" alt="Laragon" />
-</p>
-
-### 🎨 Design & Prototyping
-<p>
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
-</p>
-
-
-### 🔌 IoT & Electronics
-<p>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
-</p>
-
-### 🔗 Other Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=github,gitlab" alt="Other Platforms" />
-</p>
+<h2>Tools</h2>
+<img src="https://skillicons.dev/icons?i=vscode,github,git,postman,figma" />
 
 ---
 
