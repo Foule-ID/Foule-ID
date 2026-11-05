@@ -42,15 +42,16 @@ Hi! I'm **Foule-ID**, a student developer from Indonesia who is passionate about
 
 ## 🛠️ Tech Stack & Tools
 
-<h2>Core Tech Stacks</h2>
-<img src="https://skillicons.dev/icons?i=react,vite,supabase,flutter,ts" />
+<h3>Core Tech Stacks</h3>
+<img src="https://skillicons.dev/icons?i=react,vite,supabase,flutter" />
 
-<h2>Other Tech Stacks</h2>
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,cs,dart,tailwind,nodejs,mysql,postgres" />
+<h3>Other Tech Stacks</h3>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,c,cs,dart,tailwind,nodejs,mysql,postgres,php,laravel" />
 
-<h2>Tools</h2>
+<h3>Tools</h3>
 <img src="https://skillicons.dev/icons?i=vscode,github,git,postman,figma" />
 
+---
 ---
 
 ## 🚀 Featured Projects
