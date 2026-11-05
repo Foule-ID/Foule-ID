@@ -52,7 +52,6 @@ Hi! I'm **Foule-ID**, a student developer from Indonesia who is passionate about
 <img src="https://skillicons.dev/icons?i=vscode,github,git,postman,figma" />
 
 ---
----
 
 ## 🚀 Featured Projects
 
